@@ -3,11 +3,17 @@
 
 - 🔭 I’m currently studying **Informatics and Computing Engineering**
 
+- 🌱 I’m currently learning **SwiftUI and Accessibility development**
+
 - 📫 How to reach me **7marianaramos@gmail.com**
+
+- 📄 Know about my experiences [https://violet-shari-26.tiiny.site](https://violet-shari-26.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/marianaramos37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marianaramos37" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mariana-ramos-554874216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana-ramos-554874216" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15984812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15984812" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
